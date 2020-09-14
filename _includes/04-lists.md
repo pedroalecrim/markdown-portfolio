@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Sciene Fiction
+* Technology 
+* Movies
+* Reading
+* Learning new things
